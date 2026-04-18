@@ -1,5 +1,5 @@
 # Ignore the entire data folder
-data/
+init_data/
 
 # Ignore the models folder
 models/
