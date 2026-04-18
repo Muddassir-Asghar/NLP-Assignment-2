@@ -1,0 +1,16 @@
+# Ignore the entire data folder
+data/
+
+# Ignore the models folder
+models/
+
+# Ignore all large numpy matrices
+embeddings/*.npy
+
+# Ignore temporary system files
+.DS_Store
+Thumbs.db
+
+# Ignore python cache
+__pycache__/
+*.pyc
